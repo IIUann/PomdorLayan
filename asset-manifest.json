@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PomdorLayan/static/css/main.e8a1c062.css",
-    "main.js": "/PomdorLayan/static/js/main.d595d3c1.js",
+    "main.css": "/PomdorLayan/static/css/main.7b180797.css",
+    "main.js": "/PomdorLayan/static/js/main.ee37f522.js",
     "static/js/453.555620f3.chunk.js": "/PomdorLayan/static/js/453.555620f3.chunk.js",
     "static/media/idle.gif": "/PomdorLayan/static/media/idle.1cdd6ed8b0b12f625dd6.gif",
     "static/media/work.gif": "/PomdorLayan/static/media/work.f9400c51fc8c1eba32a4.gif",
@@ -18,12 +18,12 @@
     "static/media/close.png": "/PomdorLayan/static/media/close.f15771e625ecd2cfbe84.png",
     "static/media/Retrograde-Regular.otf": "/PomdorLayan/static/media/Retrograde-Regular.36a932e0d4eafc8f2a63.otf",
     "index.html": "/PomdorLayan/index.html",
-    "main.e8a1c062.css.map": "/PomdorLayan/static/css/main.e8a1c062.css.map",
-    "main.d595d3c1.js.map": "/PomdorLayan/static/js/main.d595d3c1.js.map",
+    "main.7b180797.css.map": "/PomdorLayan/static/css/main.7b180797.css.map",
+    "main.ee37f522.js.map": "/PomdorLayan/static/js/main.ee37f522.js.map",
     "453.555620f3.chunk.js.map": "/PomdorLayan/static/js/453.555620f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a1c062.css",
-    "static/js/main.d595d3c1.js"
+    "static/css/main.7b180797.css",
+    "static/js/main.ee37f522.js"
   ]
 }
