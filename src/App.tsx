@@ -13,7 +13,6 @@ import workGif from "./assets/work.gif";
 import breakGif from "./assets/break.gif";
 import meowSound from "./assets/meow.mp3";
 import closeBtn from "./assets/close.png";
-
 function App() {
 
   const [timeLeft, setTimeLeft] = useState(25 * 60);
@@ -25,6 +24,7 @@ function App() {
   const [encouragement, setEncouragement] = useState("");
   const [image, setImage] = useState(playImg);
   const meowAudio = new Audio(meowSound);
+  const [darkMode, setDarkMode] = useState(false);
 
   const cheerMessages = [
     "You Can Do It!",
@@ -135,7 +135,9 @@ function App() {
         <button className="close-button" onClick={handleCloseClick}>
           <img src={closeBtn} alt = "Close" />
         </button>
+        
       </div>
+      
 
       <div className="home-content">
         <div className="home-controls">
@@ -156,7 +158,9 @@ function App() {
         <button className="home-button" onClick={handleClick}>
           <img src={image} alt="Button Icon" />
         </button>
+        
       </div>
+      
     </div>
   );
 }
